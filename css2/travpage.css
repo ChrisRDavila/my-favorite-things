@@ -1,0 +1,14 @@
+h4 {color: aquamarine;
+  background-color: black;
+  font-size: 25px;
+}
+h1 {color: crimson;
+  font-style: italic;
+}
+h2 {color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {color: blueviolet;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+* {background-color:chartreuse;}
